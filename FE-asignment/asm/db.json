@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "email": "hieutdph13190@gmail.com",
+      "password": "$2a$10$Q3QnNYWmMsJj7BgY5ps5oe/WxuKXARueCBDsclQOpsaxatVUsxtF.",
+      "phone": "0987654321",
+      "id": 1
+    },
+    {
+      "email": "hieutdph13191@gmail.com",
+      "password": "$2a$10$n/KSm1DCxejLncD7o/YM/.8WD6aChYLlzhHKArC5O0TOk51m1kKb6",
+      "phone": "0987654321",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone 11",
+      "originalPrice": "giá gốc",
+      "saleOffPrice": "gia khuyến mãi",
+      "description": "adsdadass",
+      "categoryProductId": 1,
+      "shortDescription": "iphone 11",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmyxfWooBjaZcESs2XGkGO6UsQfduv0iTm0rmQ-UcNlTEXtgTf7tsqb9elRkdo46vePUfCV7qPPkU&usqp=CAc"
+    },
+    {
+      "id": 2,
+      "name": "iphone 11",
+      "originalPrice": "giá gốc",
+      "saleOffPrice": "gia khuyến mãi",
+      "feature": "iphone 11",
+      "description": "adsdadass",
+      "categoryProductId": "2",
+      "shortDescription": "iphone 11",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmyxfWooBjaZcESs2XGkGO6UsQfduv0iTm0rmQ-UcNlTEXtgTf7tsqb9elRkdo46vePUfCV7qPPkU&usqp=CAc"
+    },
+    {
+      "id": 3,
+      "name": "iphone 11",
+      "originalPrice": "giá gốc",
+      "saleOffPrice": "gia khuyến mãi",
+      "feature": "iphone 11",
+      "description": "adsdadass",
+      "categoryProductId": "2",
+      "shortDescription": "iphone 11",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmyxfWooBjaZcESs2XGkGO6UsQfduv0iTm0rmQ-UcNlTEXtgTf7tsqb9elRkdo46vePUfCV7qPPkU&usqp=CAc"
+    },
+    {
+      "id": 4,
+      "name": "iphone 11",
+      "originalPrice": "giá gốc",
+      "saleOffPrice": "gia khuyến mãi",
+      "feature": "iphone 11",
+      "description": "adsdadass",
+      "categoryProductId": "2",
+      "shortDescription": "iphone 11",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmyxfWooBjaZcESs2XGkGO6UsQfduv0iTm0rmQ-UcNlTEXtgTf7tsqb9elRkdo46vePUfCV7qPPkU&usqp=CAc"
+    },
+    {
+      "id": 5,
+      "name": "iphone 11",
+      "originalPrice": "giá gốc",
+      "saleOffPrice": "gia khuyến mãi",
+      "feature": "iphone 11",
+      "description": "adsdadass",
+      "categoryProductId": "2",
+      "shortDescription": "iphone 11",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmyxfWooBjaZcESs2XGkGO6UsQfduv0iTm0rmQ-UcNlTEXtgTf7tsqb9elRkdo46vePUfCV7qPPkU&usqp=CAc"
+    },
+    {
+      "id": 6,
+      "name": "iphone 11",
+      "originalPrice": "giá gốc",
+      "saleOffPrice": "gia khuyến mãi",
+      "feature": "iphone 11",
+      "description": "adsdadass",
+      "categoryProductId": "2",
+      "shortDescription": "iphone 11",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmyxfWooBjaZcESs2XGkGO6UsQfduv0iTm0rmQ-UcNlTEXtgTf7tsqb9elRkdo46vePUfCV7qPPkU&usqp=CAc"
+    },
+    {
+      "id": 7,
+      "name": "iphone 11",
+      "originalPrice": "giá gốc",
+      "saleOffPrice": "gia khuyến mãi",
+      "feature": "iphone 11",
+      "description": "adsdadass",
+      "categoryProductId": "2",
+      "shortDescription": "iphone 11",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmyxfWooBjaZcESs2XGkGO6UsQfduv0iTm0rmQ-UcNlTEXtgTf7tsqb9elRkdo46vePUfCV7qPPkU&usqp=CAc"
+    }
+  ]
+}
